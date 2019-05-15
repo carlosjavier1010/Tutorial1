@@ -13,6 +13,7 @@ public class Ejercicio2 {
 		//Comentario agregado para el manul de GIT / GITHUB para prueba de modificacion de archivo
 		//Comentario primera modificacion rama pruebas
 		//Comentario segunda modificacion rama pruebas
+		//Comentario de la real segunda modificacion rama pruebas
 		ArrayList<String> txt = new ArrayList<>();
 		
 		String linea2 = "";

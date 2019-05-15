@@ -11,7 +11,7 @@ public class Ejercicio2 {
 	public static void main(String[] args) {
 		
 		//Comentario agregado para el manul de GIT / GITHUB para prueba de modificacion de archivo
-		
+		//Comentario agregado para el manual de GIT / GITHUB para segunda prueba de modificacion de archivo
 		ArrayList<String> txt = new ArrayList<>();
 		
 		String linea2 = "";

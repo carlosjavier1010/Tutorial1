@@ -88,6 +88,7 @@ public class Ejercicio1 {
 		Scanner scan = new Scanner(System.in);
 		
 		//Esto es un comentario de prueba para github
+		//Esto es otro comentario de prueba para github
 		
 		int op1 = 0, op2 = 0;
 		int opcion = 0;

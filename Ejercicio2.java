@@ -11,14 +11,14 @@ public class Ejercicio2 {
 	public static void main(String[] args) {
 		
 		//Comentario agregado para el manul de GIT / GITHUB para prueba de modificacion de archivo
-<<<<<<< HEAD
+
 		//Comentario primera modificacion rama pruebas
 		//Comentario segunda modificacion rama pruebas
 		//Comentario de la real segunda modificacion rama pruebas
-=======
+
 		//Comentario agregado para el manual de GIT / GITHUB para segunda prueba de modificacion de archivo
 		//Comentario agregado para el manual de GIT / GITHUB para tercera prueba de modificacion de archivo
->>>>>>> principal
+
 		ArrayList<String> txt = new ArrayList<>();
 		
 		String linea2 = "";
